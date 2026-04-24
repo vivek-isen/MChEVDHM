@@ -2,7 +2,7 @@
 % This code is developed by Vivek Kumar Singh, PhD. It is requested to cite
 % the paper mentioned below, if you are using this code.
 %
-% V.K. Singh and R.B. Pachori, Multichannel eigenvalue decomposition of 
+% V.K. Singh and R.B. Pachori, "Multichannel eigenvalue decomposition of 
 % Hankel matrix based classification of eye movements from electrooculogram
 % ,” IEEE Sensors Letters, vol. 8, no. 7, Art. no. 6008204, 2024.
 %--------------------------------------------------------------------------
